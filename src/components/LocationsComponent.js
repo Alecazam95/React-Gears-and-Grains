@@ -74,7 +74,7 @@ function Locations(props) {
                   className="img-thumbnail"
                   src="assets/images/bikeCafeTwo.jpg"
                   height="400"
-                  alt="Plan Your Ride"
+                  alt="Cafe"
                 />
               </FadeTransform>
             </div>

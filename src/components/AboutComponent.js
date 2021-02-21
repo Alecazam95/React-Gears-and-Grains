@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Button } from "reactstrap";
 import { FadeTransform } from "react-animation-components";
 
 function About(props) {
@@ -109,13 +109,12 @@ function About(props) {
                 our locations here.
               </p>
 
-              <Link
-                role="button"
+              <Button
                 className="btn btn-lg btn-dark float-md-right mr-5 d-none d-sm-inline"
-                href="locations.html"
+                href="/locations"
               >
                 Locations
-              </Link>
+              </Button>
             </div>
             <div className="col text-center">
               <div className="media">
@@ -126,13 +125,12 @@ function About(props) {
                   alt="Locations"
                 />
               </div>
-              <Link
-                role="button"
+              <Button
                 className="btn btn-lg btn-dark col-sm-ml-3 d-sm-none mt-3"
-                href="locations.html"
+                href="/locations"
               >
                 Locations
-              </Link>
+              </Button>
             </div>
           </div>
         </FadeTransform>
