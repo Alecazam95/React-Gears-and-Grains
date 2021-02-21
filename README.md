@@ -8,7 +8,7 @@ This site is my first React portfolio project. Gears & Grains is a fictional bak
 
 I thought creating a website for this imaginary bakery would be a great way to practice creating store-front pages. I wanted to create a clean and simplistic single-page application that was easy to navigate. (Find original wireframe here: https://www.figma.com/file/bdOGTHhhrzrKuAyNr2zBBT/Gears-and-Grains?node-id=0%3A1)
 
-My choice of colors (or lack of) was to push the users' focus to the photos throughout the components and avoid overloading the page with too much to take in. I also chose to largely use white as it is associated with cleanliness.
+My choice of colors (or lack of) was to push the users' focus to the photos throughout the components and avoid overloading the page with too much to take in. I also chose to largely use white as it is associated with cleanliness (important for a place that makes and sells food).
 
 ## Challenges
 
