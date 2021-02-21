@@ -49,7 +49,7 @@ function About(props) {
             <div className="media">
               <FadeTransform in>
                 <img
-                  className="d-flex img-thumbnail border-0"
+                  className="d-flex img-thumbnail ml-3 ml-lg-4 border-0"
                   src="assets/images/logo.png"
                   width="300"
                   alt="Locations"
